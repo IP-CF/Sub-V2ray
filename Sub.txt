@@ -1,1 +1,3 @@
 trojan://vEPKfvSSBU@cdn1.biomedng78-talentgo.cloud:443?mode=gun&security=tls&type=grpc&serviceName=&sni=wordpress.biomedng78-talentgo.cloud#CDN02-sw-test02%F0%9F%87%A8%F0%9F%87%AD
+vless://fbc927b1-34e6-4057-b9ed-f696f3c867a1@37.27.5.58:8080?security=reality&encryption=none&pbk=u49FhnzE8XRGRgMY_6sAxKPzbOmYMuRELcRPzZtnNh8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=server-18667.prod.hosts.ooklaserver.net&sid=9bb36487#.
+trojan://-DSSaJivz_AkFuParhe4pg@zula.ir:2083?security=tls&host=fR.19kalA.cO&type=ws&sni=fr.19kalA.cO#.
